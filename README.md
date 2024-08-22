@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Osipov
 ---
 * ✉️  You can contact me at [osipov.sasha09@yandex.ru](mailto:osipov.sasha09@yandex.ru)
-* 🧠  I'm learning Node JS
 
 ### Skills:
 <p align="left">
